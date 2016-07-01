@@ -8,8 +8,8 @@
   <string>com.dwform.wwdc</string>
   <key>PlexAgentAttributionText</key>
   <string>
-    Metadata agent for Apple &lt;a href="https://developer.apple.com/wwdc/"&gt;WWDC&lt;/a&gt; session videos.&lt;br/&gt;
-    Updates will be available via GitHub &lt;a href="https://github.com/drmccheese/wwdc-plex-metadata"&gt;drmccheese/wwdc-plex-metadata&lt;/a&gt;.
+    &lt;p&gt;Metadata agent for Apple &lt;a href="https://developer.apple.com/wwdc/"&gt;WWDC&lt;/a&gt; session videos.&lt;/p&gt;
+    &lt;p&gt;Updates will be available via GitHub &lt;a href="https://github.com/drmccheese/wwdc-plex-metadata"&gt;drmccheese/wwdc-plex-metadata&lt;/a&gt;.&lt;/p&gt;
   </string>
   <key>PlexFrameworkVersion</key>
   <string>2</string>
