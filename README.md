@@ -1,6 +1,8 @@
 # WWDC Plex Metadata Agent
 A Plex agent which provides metadata for [Apple Worldwide Developers Conference](https://developer.apple.com/wwdc/) session videos including titles, dates, summaries, and collection tags.
 
+![Screenshot](screenshot.png "Screenshot")
+
 ## Requirements
 * An installation of [Plex Media Server](https://www.plex.tv/).
 * A folder containing WWDC session videos.
